@@ -1,2 +1,2 @@
 # merging
-merging
+wir trainieren den merge befehl
